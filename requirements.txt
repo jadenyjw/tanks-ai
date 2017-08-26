@@ -1,0 +1,4 @@
+pygame
+websocket-client
+tensorflow
+
